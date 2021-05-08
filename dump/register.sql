@@ -3,13 +3,13 @@
 
  Source Server         : my connection
  Source Server Type    : MySQL
- Source Server Version : 80019
- Source Host           : 127.0.0.1:3306
+ Source Server Version : 
+ Source Host           : 
  Source Schema         : register
 
  Target Server Type    : MySQL
- Target Server Version : 80019
- File Encoding         : 65001
+ Target Server Version : 
+ File Encoding         : 
 
  Date: 08/05/2021 23:39:46
 */
