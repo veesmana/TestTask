@@ -1,0 +1,62 @@
+.contatiner
+{
+	width: 80%;
+	margin: auto;
+	margin-top: 15px;
+}
+
+#regestrationHeader
+{
+	color: rgb(99,96,91);
+	padding-bottom: 15px;
+	border-bottom: 2px solid #bebebe;
+	font-size: 35px;
+}
+.nameofinput
+{
+	text-align: right;
+	
+}
+input[type=text] 
+{
+	width: 90%;
+	display: block;
+	margin: auto;
+}
+.textUnderInput
+{
+	font-size:12px;
+	text-align: center;
+	display: block;
+}
+.inputline
+{
+	margin-bottom: 20px;
+}
+.inputline:first-child {margin-top: 20px;}
+
+#img-captcha
+{
+	display: block;
+	width: 200px;
+	height: 100px;
+	margin: auto;	
+}
+#comment
+{
+	text-align: center;
+}
+
+#RegistrationButton
+{
+	border: 4px solid rgb(173,144,104);
+	display: block;
+	margin: auto;
+	text-align: center;
+	width: 300px;
+	height: 40px;
+	border-radius: 5px;
+	border-color: none;
+	background: none;
+	box-shadow: none;
+}
